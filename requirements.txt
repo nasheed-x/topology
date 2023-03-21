@@ -1,6 +1,6 @@
 decorator
 matplotlib
-networkx==1.9.1
+networkx
 nose
 numpy
 plotly

@@ -9,7 +9,7 @@ import operator
 from scipy.cluster.hierarchy import linkage, dendrogram
 import json
 import logging 
-import my_graph as mg
+from graph import my_graph as mg
 
 
 """ This file includes a bunch of helper functions for my_graph.py.
